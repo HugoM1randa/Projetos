@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\playe\\Desktop\\Alura\\Curso C#\\PrimeiroProjetooo\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
-      "projectName": "PrimeiroProjeto",
-      "projectPath": "C:\\Users\\playe\\Desktop\\Alura\\Curso C#\\PrimeiroProjetooo\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
+      "projectUniqueName": "C:\\Users\\playe\\Desktop\\Alura\\Curso C#\\ScreenSound\\ScreenSound.csproj",
+      "projectName": "ScreenSound",
+      "projectPath": "C:\\Users\\playe\\Desktop\\Alura\\Curso C#\\ScreenSound\\ScreenSound.csproj",
       "packagesPath": "C:\\Users\\playe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\playe\\Desktop\\Alura\\Curso C#\\PrimeiroProjetooo\\PrimeiroProjeto\\obj\\",
+      "outputPath": "C:\\Users\\playe\\Desktop\\Alura\\Curso C#\\ScreenSound\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\playe\\AppData\\Roaming\\NuGet\\NuGet.Config",
